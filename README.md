@@ -1,1 +1,1 @@
-# my--components
+# my-components
